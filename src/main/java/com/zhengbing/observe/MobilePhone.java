@@ -3,6 +3,8 @@ package com.zhengbing.observe;
 import java.util.Observable;
 
 /**
+ * 观察者模式 - 被观察者
+ *
  * @author zhengbing
  * @date 2021/3/2 14:39
  * @since 1.0

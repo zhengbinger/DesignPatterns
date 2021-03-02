@@ -4,6 +4,8 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
+ * 观察者模式 - 观察者
+ *
  * @author zhengbing
  * @date 2021/3/2 14:52
  * @since 1.0

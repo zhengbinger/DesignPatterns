@@ -1,11 +1,14 @@
 package com.zhengbing.observe;
 
 /**
+ * 观察者模式 - 模拟客户端
+ *
  * @author zhengbing
  * @date 2021/3/2 15:02
  * @since 1.0
  */
 public class Main {
+
   public static void main(String[] args) {
 
     MobilePhone phone = new MobilePhone(10000);
